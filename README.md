@@ -1,4 +1,13 @@
-# EasyWin32Gui
-Easy python win32gui
+<h1 align="center">
+  EasyWin32Gui
+</h1>
 
-<a align="center" href="https://github.com/themixray/ew32g/wiki">Documentation</a>
+<p align="center">
+  Easy python win32gui
+</p>
+
+<p align="center">
+  <a href="https://github.com/themixray/ew32g/wiki">
+    Documentation
+  </a>
+</p>
